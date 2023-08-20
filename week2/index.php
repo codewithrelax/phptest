@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Alan Anand Dsilva</title>
+    <title name="6026815a">Alan Anand Dsilva</title>
 
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
